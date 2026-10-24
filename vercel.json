@@ -1,0 +1,32 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "rewrites": [
+    {
+      "source": "/email-assets/ocean-v3/hero.jpg",
+      "destination": "/hero.jpg"
+    },
+    {
+      "source": "/email-assets/ocean-v3/learn.jpg",
+      "destination": "/learn.jpg"
+    },
+    {
+      "source": "/email-assets/ocean-v3/create.jpg",
+      "destination": "/create.jpg"
+    },
+    {
+      "source": "/email-assets/ocean-v3/record.jpg",
+      "destination": "/record.jpg"
+    },
+    {
+      "source": "/email-assets/ocean-v3/team.jpg",
+      "destination": "/team.jpg"
+    },
+    {
+      "source": "/email-assets/ocean-v3/school.jpg",
+      "destination": "/school.jpg"
+    }
+  ]
+}
